@@ -1,0 +1,8 @@
+## I created a simple web server using express framework in node js. 
+
+>> Now we need to change the configuration file in node js, and add a user so it can be returned by the get HTTP request we are initiating. 
+
+With Node’s environment variables, we can configure our applications outside of our codebase. Environment variables provide information about the environment 
+in which the process is running. We use Node environment variables to handle sensitive data like passwords, which we shouldn’t hard code, or configuration details that might change between runs,
+like what port a server should listen on. In Node.js these special variables are accessible on the global process.env object.
+
