@@ -12,3 +12,9 @@ like what port a server should listen on. In Node.js these special variables are
 
 >>Each Microservice can have it's own code repo., similarly each db can have it's own db (could be different kind). 
 
+>>It is believed that spring framework is the best for building microservices. Why? It already has a somewhat loose coupling way of working. It has different frameworks for different needs.
+It has a framework for data, a framework for web development, a framework for security, and for cloud.
+
+
+
+
