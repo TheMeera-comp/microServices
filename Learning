@@ -6,3 +6,9 @@ With Node’s environment variables, we can configure our applications outside o
 in which the process is running. We use Node environment variables to handle sensitive data like passwords, which we shouldn’t hard code, or configuration details that might change between runs,
 like what port a server should listen on. In Node.js these special variables are accessible on the global process.env object.
 
+
+-------------------------------------------------------------------
+(Introduction to Microservices)
+
+>>Each Microservice can have it's own code repo., similarly each db can have it's own db (could be different kind). 
+
